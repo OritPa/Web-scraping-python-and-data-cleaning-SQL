@@ -1,5 +1,6 @@
 # Web Scraping Using Python and Further Data Cleaning in SQL
-In this project, I used Python's BeautifulSoup to web scrape the Yad2 Website, the apartment rental section (specifically 1.5-2 rooms in Givatayim)(url= "https://www.yad2.co.il/realestate/rent?topArea=2&area=3&city=6300&propertyGroup=apartments&rooms=1.5-2"). After extracting the data to a csv file, I cleaned the data in Microsoft's SQL Server.
+In this project, I used Python's BeautifulSoup to web scrape the Yad2 Website, the apartment rental section (specifically 1.5-2 rooms in Givatayim, url= "https://www.yad2.co.il/realestate/rent?topArea=2&area=3&city=6300&propertyGroup=apartments&rooms=1.5-2"). 
+After extracting the data to a csv file, I cleaned the data in Microsoft's SQL Server.
 
 Before Cleaning:
 
